@@ -1,4 +1,4 @@
-# Project Name : **Name Conversions** 
+# Project Name : **Random Color Generator** 
 ![badge](https://img.shields.io/badge/iNeuron-LCO-green) ![badge](https://img.shields.io/badge/Hitesh--Choudhary-Full%20Stack%20Javascript%20Course-orange)
 
 This project developed with pure HTML and CSS mainly focused on Pure Javascript. <br/>
@@ -29,9 +29,10 @@ Random background color will change on click to button
 
 ### You can Check it Live on Below Link :
 
-[Live Link !](https://pure-js-age-calculator.netlify.app/)
+[Live Link !](https://random-color-changer.netlify.app/)
 
 ### Demo :
 
-![App Image](https://github.com/anitha-nagadasarink/age-calculator-using-pure-JS/blob/2fa3d5c6fe9feb081092f2bc91466a05ee5dc468/image/demo.PNG)
+![App Image](https://github.com/anitha-nagadasarink/color-changer/blob/Javascript-projects/Image/demo-1.PNG)
+![App Image](https://github.com/anitha-nagadasarink/color-changer/blob/Javascript-projects/Image/demo-2.PNG)
 
